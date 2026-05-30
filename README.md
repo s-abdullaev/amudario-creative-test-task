@@ -1,6 +1,6 @@
-# Creative & Content Producer Test Task — Amudar.io
+# Creative Content Producer Test Task — Amudar.io
 
-Welcome — and thanks for your interest. We're hiring a **Creative & Content Producer** to join [Amudar.io](https://amudar.io) in Tashkent. The full role and offer are in [JOB_DESCRIPTION.md](./JOB_DESCRIPTION.md) (English / Русский / Oʻzbekcha).
+Welcome — and thanks for your interest. We're hiring a **Creative Content Producer** to join [Amudar.io](https://amudar.io) in Tashkent. The full role and offer are in [JOB_DESCRIPTION.md](./JOB_DESCRIPTION.md) (English / Русский / Oʻzbekcha).
 
 This exercise is short, open, and almost entirely about taste.
 
@@ -34,7 +34,7 @@ That's it.
 
 - Upload your video to YouTube / Vimeo / Google Drive / Telegram. If you set it private, make sure we can actually play it (unlisted is usually safer).
 - Send the link to **info@amudar.io** *or* Telegram **[@s_abdullaev_uk](https://t.me/s_abdullaev_uk)**.
-- Subject line: `Creative & Content Producer Test Task — [Your Name]`.
+- Subject line: `Creative Content Producer Test Task — [Your Name]`.
 - Mention roughly **how many hours** you spent on it. No deadline pressure.
 
 ---
@@ -56,7 +56,7 @@ That's it.
 
 Главное: **удивите нас своим креативом**.
 
-Отправка: ссылка на видео (YouTube / Vimeo / Drive / Telegram) → **info@amudar.io** или Telegram **[@s_abdullaev_uk](https://t.me/s_abdullaev_uk)**. Тема письма: `Creative & Content Producer Test Task — [Ваше имя]`.
+Отправка: ссылка на видео (YouTube / Vimeo / Drive / Telegram) → **info@amudar.io** или Telegram **[@s_abdullaev_uk](https://t.me/s_abdullaev_uk)**. Тема письма: `Creative Content Producer Test Task — [Ваше имя]`.
 
 ---
 
@@ -68,7 +68,7 @@ Til: English / Русский / Oʻzbekcha — oʻzingiz tanlang. Vositalar — 
 
 Asosiy talab: **kreativligingiz bilan bizni hayratga soling.**
 
-Yuborish: video havolasi (YouTube / Vimeo / Drive / Telegram) → **info@amudar.io** yoki Telegram **[@s_abdullaev_uk](https://t.me/s_abdullaev_uk)**. Mavzu: `Creative & Content Producer Test Task — [Ismingiz]`.
+Yuborish: video havolasi (YouTube / Vimeo / Drive / Telegram) → **info@amudar.io** yoki Telegram **[@s_abdullaev_uk](https://t.me/s_abdullaev_uk)**. Mavzu: `Creative Content Producer Test Task — [Ismingiz]`.
 
 ---
 

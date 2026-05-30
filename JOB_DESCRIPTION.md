@@ -1,4 +1,4 @@
-# Creative & Content Producer — Amudar.io
+# Creative Content Producer — Amudar.io
 
 > Tashkent · On-site · 5 days/week · Flexible hours · Negotiable salary
 
@@ -8,7 +8,7 @@ Three language versions follow: **[English](#english)** · **[Русский](#�
 
 ## English
 
-**Creative & Content Producer — Amudar.io · Tashkent · On-site**
+**Creative Content Producer — Amudar.io · Tashkent · On-site**
 
 Amudar.io builds AI-powered IoT for smart agriculture — used by global organizations, banks, research institutions, and users across Uzbekistan. We're hiring a creative producer to own how Amudar.io looks, reads, and shows up online — from slide decks for ministers to reels for farmers.
 
@@ -38,7 +38,7 @@ Negotiable salary · On-site in Tashkent, 5 days/week, flexible hours · Build t
 
 ## Русский
 
-**Креативный продюсер (бренд + контент) — Amudar.io · Ташкент · Офис**
+**Креативный контент-продюсер — Amudar.io · Ташкент · Офис**
 
 Amudar.io создаёт AI-IoT решения для умного сельского хозяйства. Среди партнёров — международные организации, банки, исследовательские институты и пользователи по всему Узбекистану. Ищем креативного продюсера, который возьмёт на себя то, как Amudar.io выглядит, читается и звучит в публичном пространстве — от презентаций для министров до reels для фермеров.
 
@@ -68,7 +68,7 @@ Amudar.io создаёт AI-IoT решения для умного сельск�
 
 ## Oʻzbekcha
 
-**Kreativ va kontent prodyuser — Amudar.io · Toshkent · Ofisda**
+**Kreativ kontent prodyuseri — Amudar.io · Toshkent · Ofisda**
 
 Amudar.io — aqlli qishloq xoʻjaligi uchun AI va IoT yechimlarini ishlab chiqaruvchi kompaniya. Hamkorlar orasida xalqaro tashkilotlar, banklar, ilmiy-tadqiqot institutlari va Oʻzbekiston boʻylab foydalanuvchilar bor. Amudar.io qanday koʻrinishi, qanday oʻqilishi va internetda qanday namoyon boʻlishini — vazirlar uchun taqdimotlardan tortib fermerlar uchun reelsʼgacha — oʻz zimmasiga oladigan kreativ prodyuser qidiryapmiz.
 
